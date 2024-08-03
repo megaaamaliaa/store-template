@@ -3,8 +3,16 @@
 @import "../style/fonts.scss";
 @import "../style/global.scss";
 @import "../style/navbar.scss";
+
+
 @import "../style/pages/home.scss";
+@import "../style/pages/details";
+
+
+
 @import "../style/components/categories.scss";
 @import "../style/components/products.scss";
 @import "../style/components/products.scss";
 @import "../style/components/breadcrumbs.scss";
+
+@import "../style/transitions/slide-fade"
