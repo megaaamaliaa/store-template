@@ -1,4 +1,11 @@
 .page-details{
+
+    h5{
+    font-weight: normal;
+    font-size: 18px;
+    color: #0C0D36;
+    }
+
     .store-gallery{
         margin-top: 20px;
 
@@ -52,5 +59,29 @@
         font-size: 16px;
         line-height: 180%;
         color: #525252;
+    }
+
+    .store-review{
+        
+        .media{
+            align-items: center;
+            img{
+                max-width: 50px;
+            }
+        }
+
+        .media-body{
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 180%;
+            color: #525252;
+
+            h5{
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 180%;
+                color: #0C0D36;
+            }
+        }
     }
 }
