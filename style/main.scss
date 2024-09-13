@@ -9,6 +9,8 @@
 @import "../style/pages/details";
 @import "../style/pages/cart";
 @import "../style/pages/success";
+@import "../style/pages/auth";
+@import "../style/pages/dashboard";
 
 
 
@@ -16,5 +18,8 @@
 @import "../style/components/products.scss";
 @import "../style/components/products.scss";
 @import "../style/components/breadcrumbs.scss";
+@import "../style/components/card.scss";
+@import "../style/components/card_list.scss";
+@import "../style/components/card-dashboard.scss";
 
 @import "../style/transitions/slide-fade"
